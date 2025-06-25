@@ -43,7 +43,7 @@ Understand customer–seller distribution across Brazil:
 - Calculate great-circle distance between customers and sellers
 - Observe delivery distance patterns (many sellers located far from buyers)
 
-![Map Example](![alt text](image.png))
+[Map Example](image.png)
 
 ---
 
